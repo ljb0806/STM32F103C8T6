@@ -1,9 +1,0 @@
-.\objects\arm_mve_tables.o: ..\DSP\Source\CommonTables\arm_mve_tables.c
-.\objects\arm_mve_tables.o: ..\DSP\Include\arm_math_types.h
-.\objects\arm_mve_tables.o: ..\DSP\Core_Include\cmsis_compiler.h
-.\objects\arm_mve_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\arm_mve_tables.o: ..\DSP\Core_Include\cmsis_armcc.h
-.\objects\arm_mve_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
-.\objects\arm_mve_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
-.\objects\arm_mve_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
-.\objects\arm_mve_tables.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
